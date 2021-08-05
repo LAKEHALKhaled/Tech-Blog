@@ -60,3 +60,6 @@ The following pictures demonstrates the application functionality:
 ![post image](./public/image/post.png)
 
 
+### URL to the deployed application on heroku :
+
+https://whispering-caverns-74138.herokuapp.com/
