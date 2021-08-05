@@ -1,0 +1,16 @@
+[
+  {
+    "name": "C++",
+    "description": "c++ is a low level programming language"
+
+  },
+  {
+    "name": "node.js",
+    "description": "We use node.js on the back-end side"
+    
+  },
+  {
+    "name": "javascript",
+    "description": "javascript is so vage and can be applied everywhere from front to back-end" 
+   }
+]
